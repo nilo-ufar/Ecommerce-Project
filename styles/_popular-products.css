@@ -1,0 +1,22 @@
+.p-title,
+.p-price {
+    font-size: 16px;
+}
+
+.p-img {
+    max-width: 175px;
+}
+
+.custom-card {
+    border: none;
+    border-radius: 0;
+}
+
+.custom-card:hover {
+    box-shadow: 0 0 1px 1px #efefef;
+    z-index: 1;
+}
+
+.owl-carousel-inner {
+    padding: 2px;
+}

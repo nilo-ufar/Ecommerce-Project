@@ -1,0 +1,16 @@
+.category-desc p {
+    font-size: 13px;
+}
+
+.category-image {
+    width: 100px;
+}
+
+.category-hover {
+    transition: 0.5s ease;
+}
+
+.category-hover:hover {
+    z-index: 1;
+    box-shadow: 0 0 7px 1px #ccc;
+}
